@@ -2,4 +2,7 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <!-- res/values/colors.xml -->
+    <color name="button_default_color">#333333</color> <!-- 기본 버튼 색상 -->
+    <color name="button_pressed_color">#555555</color> <!-- 클릭 시 밝아지는 색상 -->
 </resources>

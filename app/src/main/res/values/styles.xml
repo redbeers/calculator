@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 일반 숫자, 연산자 버튼 스타일 -->
+    <style name="CalculatorButton">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_rowWeight">1</item>
+        <item name="android:layout_columnWeight">1</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:background">@drawable/button_background</item>
+        <item name="buttonDefaultColor">#333333</item> <!-- 기본 색상 -->
+        <item name="buttonPressedColor">#555555</item> <!-- 클릭 시 밝아지는 색상 -->
+    </style>
+    <!-- 일반 숫자, 연산자 버튼 스타일 -->
+    <style name="OperatorButton">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_rowWeight">1</item>
+        <item name="android:layout_columnWeight">1</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:background">@drawable/button_background</item>
+        <item name="buttonDefaultColor">#9F2626</item> <!-- 연산자 버튼의 기본 색상 -->
+        <item name="buttonPressedColor">#979696</item> <!-- 클릭 시 밝아지는 색상 -->
+    </style>
+</resources>

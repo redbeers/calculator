@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/values/attrs.xml -->
+<resources>
+    <attr name="buttonDefaultColor" format="color" />
+    <attr name="buttonPressedColor" format="color" />
+</resources>
